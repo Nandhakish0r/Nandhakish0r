@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandakishor PB</h1>
-<h3 align="center">ECE '27 @ IIIT Kottayam | VLSI Design · Analog CMOS · DFT & Verification . Computer Architecture</h3>
+<h3 align="center">ECE '27 @ IIIT Kottayam | VLSI Design · Analog CMOS · DFT & Verification . Computer Architecture . FPGA </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDZnMmFieXZsb3ZhMGJjM3YzbG4ybWV2eXF4NXJqcGNpcTQzNjNiNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="50%" />
@@ -20,7 +20,7 @@
 | 🎓 | B.Tech ECE 2023–2027 — IIIT Kottayam |
 | 🔬 | VLSI Design, Analog CMOS & Design for Testability (DFT) |
 | 🏢 | Analog VLSI Design Intern @ Digital University Kerala — Band Gap Reference (BGR) circuit design, IHP 130nm |
-| 💡 | Tools: Verilog · SystemVerilog · UVM 1.2 · Cadence · Xschem/NGSpice · Vivado · Quartus · Python |
+| 💡 | Tools: Verilog · SystemVerilog · UVM 1.2 · Cadence · Xschem/NGSpice · Vivado · Quartus ·|
 | 🚀 | Currently building: MazeSolver Bot (eYRC 2025, IIT Bombay) · RISC-V Grand Challenge (DIR-V, MeitY) |
 | 🏆 | Winner, VLSID 2025 Design Contest |
 | 💼 | [LinkedIn](https://www.linkedin.com/in/nandakishor-pb-4a6425296/) |
