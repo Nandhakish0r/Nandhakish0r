@@ -2,7 +2,7 @@
 <h3 align="center">ECE '27 @ IIIT Kottayam | VLSI Design | DFT & Verification</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm50bzNpM2VxN2dsajM4Mm9rMmJxdTQ0b2R6Z3pnanpuMDBkZHl4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u4azSlFs0cgaw5q/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm50bzNpM2VxN2dsajM4Mm9rMmJxdTQ0b2R6Z3pnanpuMDBkZHl4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u4azSlFs0cgaw5q/giphy.gif" width="10%" />
 </p>
 
 ---
