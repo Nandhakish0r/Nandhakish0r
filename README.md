@@ -2,8 +2,9 @@
 <h3 align="center">ECE '27 @ IIIT Kottayam | VLSI Design · Analog CMOS · DFT & Verification</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm50bzNpM2VxN2dsajM4Mm9rMmJxdTQ0b2R6Z3pnanpuMDBkZHl4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u4azSlFs0cgaw5q/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDZnMmFieXZsb3ZhMGJjM3YzbG4ybWV2eXF4NXJqcGNpcTQzNjNiNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="50%" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nandhakish0r&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
@@ -28,10 +29,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDZnMmFieXZsb3ZhMGJjM3YzbG4ybWV2eXF4NXJqcGNpcTQzNjNiNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="50%" />
-</p>
 
 ![Verilog](https://img.shields.io/badge/Verilog-6C63FF?style=for-the-badge&logo=v&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge&logoColor=white)
@@ -80,10 +77,6 @@
 - **Best NSS Volunteer Award** among 500 students (2022)
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDZnMmFieXZsb3ZhMGJjM3YzbG4ybWV2eXF4NXJqcGNpcTQzNjNiNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="100%" />
-</p>
 
 ---
 
