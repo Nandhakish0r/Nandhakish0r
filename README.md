@@ -30,20 +30,48 @@
 
 ## 🛠️ Tech Stack
 
-![Verilog](https://img.shields.io/badge/Verilog-6C63FF?style=for-the-badge&logo=v&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming & Hardware Description Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Yosys](https://img.shields.io/badge/Yosys-0F6E56?style=for-the-badge&logoColor=white)
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-3C3489?style=for-the-badge&logoColor=white)
-![GTKWave](https://img.shields.io/badge/GTKWave-085041?style=for-the-badge&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence-005073?style=for-the-badge&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-D81E05?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-2C3E50?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-6C63FF?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM_1.2-8E44AD?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
+
+### 🔧 EDA, FPGA & Verification Tools
+
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-D81E05?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence-E3000F?style=for-the-badge)
+![Synopsys](https://img.shields.io/badge/Synopsys-005073?style=for-the-badge)
+![Intel Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge)
+![Keil uVision](https://img.shields.io/badge/Keil_uVision-3949AB?style=for-the-badge)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### ⚙️ Open-Source VLSI & Architecture Tools
+
+![Yosys](https://img.shields.io/badge/Yosys-0F6E56?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-085041?style=for-the-badge)
+![Xschem](https://img.shields.io/badge/Xschem-34495E?style=for-the-badge)
+![Magic](https://img.shields.io/badge/Magic_VLSI-8E44AD?style=for-the-badge)
+![NGSpice](https://img.shields.io/badge/NGSpice-1B5E20?style=for-the-badge)
+![Netgen](https://img.shields.io/badge/Netgen-5D4037?style=for-the-badge)
+![RIPES](https://img.shields.io/badge/RIPES-1565C0?style=for-the-badge)
+![ChampSim](https://img.shields.io/badge/ChampSim-6A1B9A?style=for-the-badge)
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-3C3489?style=for-the-badge)
+
+---
+
+### 🐧 Development Environment
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 
