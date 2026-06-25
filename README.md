@@ -16,12 +16,12 @@
 
 | | |
 |---|---|
-| 🎓 | B.Tech ECE 2023–2027 — IIIT Kottayam (GPA 7.95/10) |
+| 🎓 | B.Tech ECE 2023–2027 — IIIT Kottayam |
 | 🔬 | VLSI Design, Analog CMOS & Design for Testability (DFT) |
 | 🏢 | Analog VLSI Design Intern @ Digital University Kerala — Band Gap Reference (BGR) circuit design, IHP 130nm |
 | 💡 | Tools: Verilog · SystemVerilog · UVM 1.2 · Cadence · Xschem/NGSpice · Vivado · Quartus · Python |
 | 🚀 | Currently building: MazeSolver Bot (eYRC 2025, IIT Bombay) · RISC-V Grand Challenge (DIR-V, MeitY) |
-| 🏆 | Winner, VLSID 2025 Design Contest — top 15 of 265 submissions |
+| 🏆 | Winner, VLSID 2025 Design Contest |
 | 💼 | [LinkedIn](https://www.linkedin.com/in/nandakishor-pb-4a6425296/) |
 | 📧 | nandakishorpb70@gmail.com |
 
@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdodHh4dWlscW13dHl3czRlcXo4aXc0YjhscG10bnJwY3JtdXVpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n91XCoirCBbJsgciN5/giphy.gif" width="200" align="right" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDZnMmFieXZsb3ZhMGJjM3YzbG4ybWV2eXF4NXJqcGNpcTQzNjNiNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="50%" />
 </p>
 
 ![Verilog](https://img.shields.io/badge/Verilog-6C63FF?style=for-the-badge&logo=v&logoColor=white)
