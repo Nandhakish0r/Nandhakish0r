@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandakishor PB</h1>
-<h3 align="center">ECE '27 @ IIIT Kottayam | VLSI Design · Analog CMOS · DFT & Verification</h3>
+<h3 align="center">ECE '27 @ IIIT Kottayam | VLSI Design · Analog CMOS · DFT & Verification . Computer Architecture</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDZnMmFieXZsb3ZhMGJjM3YzbG4ybWV2eXF4NXJqcGNpcTQzNjNiNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="50%" />
@@ -99,10 +99,10 @@
 
 ## 🏆 Achievements
 
-- **Winner — VLSID 2025 Design Contest**, "AI-Driven Retail Automation using PolarFire SoC" — top 15 of 265 submissions, showcased at VLSI Design Conference 2025, Bangalore (advanced to Grand Finale)
-- **Top 30 Semifinalist — Digital India RISC-V (DIR-V) Grand Challenge**, MeitY Chips-to-Startup (C2S) Programme
+- **Winner — VLSID 2025 Design Contest**, "AI-Driven Retail Automation using PolarFire SoC" , showcased at VLSI Design Conference 2025, Bangalore
+- **Digital India RISC-V (DIR-V) Grand Challenge**, MeitY Chips-to-Startup (C2S) Programme
 - **Stage 2 Qualifier — e-Yantra Robotics Competition (eYRC 2025)**, IIT Bombay — MazeSolver Bot theme
-- **Best NSS Volunteer Award** among 500 students (2022)
+- **Best NSS Volunteer Award** 
 
 ---
 
