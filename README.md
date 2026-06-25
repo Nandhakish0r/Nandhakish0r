@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| 🎓 | B.Tech ECE 2023–2027 — IIIT Kottayam |
+| 🎓 | B.Tech ECE 2023–2027 — IIIT Kottayam |[Portfolio](https://nandhakish0r.github.io/Nandakishor.github.io/) |
 | 🔬 | VLSI Design, Analog CMOS & Design for Testability (DFT) |
 | 🏢 | Analog VLSI Design Intern @ Digital University Kerala — Band Gap Reference (BGR) circuit design, IHP 130nm |
 | 💡 | Tools: Verilog · SystemVerilog · UVM 1.2 · Cadence · Xschem/NGSpice · Vivado · Quartus ·|
